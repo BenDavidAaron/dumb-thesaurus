@@ -1,0 +1,6 @@
+venv/
+*.vec
+*.vec.zip
+*.ann
+.ipynb_checkpoints/*
+
